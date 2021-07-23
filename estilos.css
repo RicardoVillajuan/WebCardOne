@@ -10,8 +10,9 @@ body{
     background: hsl(233, 47%, 7%);
 }
 .contenedor{
-    margin: 70px 25px;
-    
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 103px;
 }
 .imagen{
     height: 235.58px;
